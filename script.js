@@ -4,7 +4,7 @@ const tg = window.Telegram.WebApp;
 // From 0.001 to 100
 const items = [
   { name: "Coin 100", img: "img/coin.png", chance: 40 },
-  { name: "Coin 200", img: "img/pointer.png", chance: 50 },
+  { name: "милиоооооннннн", img: "img/pointer.png", chance: 50 },
   { name: "Coin 200", img: "", chance: 10 },
 ];
 
