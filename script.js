@@ -5,7 +5,7 @@ const tg = window.Telegram.WebApp;
 const items = [
   { name: "Coin 100", img: "img/coin.png", chance: 1 },
   { name: "милиоооооннннн", img: "img/pointer.png", chance: 2 },
-  { name: "Coin 200", img: "", chance: 10 },
+  { name: "Coin 200", img: "img/tk1.jpg", chance: 5 },
 ];
 
 function getItem() {
